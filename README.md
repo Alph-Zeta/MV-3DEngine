@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/language-Python-blue)
 ![Rendering](https://img.shields.io/badge/graphics-3D%20Visualization-purple)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 
 ---
 
@@ -10,7 +10,7 @@
 
 This project is a custom-built 3D visualization engine designed to render and explore multivariable functions in real time. The system allows users to intuitively understand how mathematical surfaces behave in three-dimensional space by enabling rotation, scaling.
 
-### 1. Function Representation
+## 1. Function Representation
 
 Multivariable functions of the form:
 z = f(x, y)
