@@ -12,8 +12,7 @@ This project is a custom-built 3D visualization engine designed to render and ex
 
 ## 1. Function Representation
 
-Multivariable functions of the form:
-z = f(x, y)
+Multivariable functions of the form: z = f(x, y)
 are sampled over a defined grid of `(x, y)` values. Each point is evaluated to produce a corresponding height `z`, forming a surface in 3D space.
 ---
 
@@ -27,7 +26,7 @@ This engine uses a **projection rule** based on a simplified perspective transfo
 - Depth (`z`) influences the final position to simulate perspective
 - Objects farther away appear smaller, preserving depth perception
 
-x = dx/z & y = dy/z
+- x = dx/z & y = dy/z
 
 This creates the illusion of a 3D environment on a flat display.
 ---
